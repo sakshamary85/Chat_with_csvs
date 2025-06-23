@@ -1,2 +1,28 @@
-# Chat_with_csv
- 
+# Multiple‑CSV Chatbot powered by LLM
+
+A powerful Streamlit web app that lets you chat with your CSV files using natural language! Upload multiple CSVs, ask questions, and get instant answers, insights, and even visualizations (charts/plots) — all powered by an LLM (Llama3 via Groq API).
+
+---
+
+## 🚀 Features
+- **Multiple CSV Upload**: Upload and switch between multiple CSV files effortlessly.
+- **Natural Language Chat**: Interact with your data using plain English (e.g., “Show me a bar chart of species count”).
+- **Automatic Charting**: Generate bar, line, histogram, scatter, and pie charts based on your queries.
+- **Downloadable Charts**: Save any generated chart directly as a PNG.
+- **Chat History**: Track and export your conversation history.
+- **Modern UI**: Clean, dark-themed, responsive interface with a sticky chat input.
+- **Error Handling**: Intelligent feedback for invalid queries or unsupported chart types.
+
+---
+
+## 🧪 Demo  
+![Demo Screenshot](path_to_your_screenshot.png)
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/sakshamary85/chat-with-csv.git
+   cd chat-with-csv

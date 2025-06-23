@@ -16,7 +16,7 @@ A powerful Streamlit web app that lets you chat with your CSV files using natura
 ---
 
 ## 🧪 Demo  
-![Demo Screenshot](path_to_your_screenshot.png)
+![Demo Screenshot](https://github.com/sakshamary85/Chat_with_csvs/blob/main/Screenshot%202025-06-23%20142303.png)
 
 ---
 

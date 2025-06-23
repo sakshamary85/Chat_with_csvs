@@ -26,3 +26,12 @@ A powerful Streamlit web app that lets you chat with your CSV files using natura
    ```bash
    git clone https://github.com/sakshamary85/chat-with-csv.git
    cd chat-with-csv
+2. **Install Dependencies**
+   pip install -r requirements.txt
+   
+3. **Configure Groq API Key**
+   Create a .env file in the project root directory and add your Groq API key like this:
+   GROQ_API_KEY=your_api_key_here
+
+4. **Run the App**
+   streamlit run chat_csv_app.py
